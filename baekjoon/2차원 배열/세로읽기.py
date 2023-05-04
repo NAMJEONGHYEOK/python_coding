@@ -10,7 +10,7 @@
 #     temp = list(input())
 #     matrix_a[i][:len(temp)] = temp
 
-#     if len(matrix_a) > Max_len :
+#     if len(temp) > Max_len :
 #         Max_len = len(temp)
 #     else :
 #         continue
